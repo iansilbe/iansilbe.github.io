@@ -1,0 +1,31 @@
+.main-menu {
+    position: relative;
+    /*display: inline-block;*/
+    text-align: center;
+}
+
+.mm-ul {
+    list-style-type: none;
+    padding: 12px 16px;
+    margin: 0;
+}
+.mm-item {
+    display: inline-block;
+}
+
+/*FOR HEADER AND OTHER ITEMS CONTAINED WITHIN THAT DIV TAG*/
+.header {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+}
+h2 {
+    text-align: center;
+    color: chartreuse;
+}
+body {
+    background-color: rgba(127,255,0,0.3); /*chartreuse*/
+}
