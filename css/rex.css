@@ -1,0 +1,17 @@
+.header {
+    background-image: url(media/images/pattern.jpg);
+}
+/*FOR TABLE*/
+table {
+    
+    padding: 50px 100px;
+    border: solid black;
+    background-color: azure;
+}
+
+.msg-content {
+    text-align: justify;
+    border: solid cadetblue;
+    padding: 5px 10px;
+    background-color: whitesmoke;
+}
